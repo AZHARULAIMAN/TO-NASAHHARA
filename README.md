@@ -12,6 +12,28 @@
             text-align: center;
             padding: 50px;
         }
+        /* Flower animation background */
+        .flower {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: url('https://www.transparenttextures.com/patterns/polygons.png'); /* Use a pattern or image of flowers */
+            opacity: 0.1;
+            animation: flowerAnimation 10s linear infinite;
+            z-index: -1;
+        }
+        @keyframes flowerAnimation {
+            0% {
+                transform: translateX(0) rotate(0deg);
+            }
+            50% {
+                transform: translateX(100%) rotate(180deg);
+            }
+            100% {
+                transform: translateX(0) rotate(360deg);
+            }
         h1 {
             color: #003366;
             font-size: 3em;
@@ -19,6 +41,12 @@
         p {
             font-size: 1.5em;
             margin-top: 20px;
+        } 
+        .photo-gallery {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-top: 30px;
         }
         .photo-gallery img {
             border-radius: 10px;
