@@ -1,15 +1,15 @@
-# TO-NASAHHARA
+# TO NASAHHARA BINTI TAJUDDIN
 
-<!DOCTYPE html>
+''<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Happy Birthday, Nasahhara Binti Tajuddin!</title>
+    <title>Happy Birthday Nasahhara !</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #ffecf2;
+            background-color: #f8d0d1;
             color: #333;
             text-align: center;
             padding: 50px;
@@ -23,14 +23,12 @@
             margin-top: 20px;
         }
         .photo-gallery img {
-            width: 200px;
-            height: 200px;
             border-radius: 10px;
             margin: 10px;
         }
         .button {
-            background-color: #ff4d4d;
-            color: white;
+            background-color: #f5f5dc;
+            color: black;
             padding: 10px 20px;
             border: none;
             border-radius: 5px;
@@ -46,8 +44,8 @@
     <h1>Happy Birthday, Nasahhara!</h1>
     <p>Wishing you all the love, joy, and happiness in the world today and always. You mean so much to me! Semoga awak sentiasa dilindungi dan diluaskan rezeki dari Allah s.w.t. Jadi anak yang baik dan solehah yaa..</p>
     <div class="photo-gallery">
-        <img src="IMG-20250401-WA0002.jpg" alt="Memory 1">
-        <img src="IMG-20250405-WA0008.jpg" alt="Memory 2">
+        <img src="IMG-20250401-WA0002.jpg" alt="Memory 1" width="2560" height="1703">
+        <img src="IMG-20250405-WA0008.jpg" alt="Memory 2" width="1920" height="2560">
     </div>
     <a href="FB_VID_3300536119473816444.mp4" class="button">Your Special Gift</a>
 </body>
