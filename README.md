@@ -13,7 +13,7 @@
             padding: 50px;
         }
         h1 {
-            color: #ff4d4d;
+            color: #003366;
             font-size: 3em;
         }
         p {
